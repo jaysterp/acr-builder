@@ -170,3 +170,6 @@ sudo ln -s $(HOME)/.docker /var/lib/docker/volumes/home/_data
     ]
 }
 ```
+
+
+Press F5.
